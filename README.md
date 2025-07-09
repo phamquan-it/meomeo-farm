@@ -27,7 +27,7 @@ You play as a little cat who can plant, water, fertilize, and harvest emoji crop
 - No server needed – completely frontend and exportable
 
 ---
-![Meo Meo Farm Preview](./image.png)
+<img src="./image.png" alt="Meo Meo Farm Preview" width="300" />
 ## 🚀 Getting Started
 
 ```bash
