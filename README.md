@@ -3,7 +3,7 @@
 A fun and minimalist emoji-based farming game built with **React**, **React-Konva**, and **Zustand**.  
 You play as a little cat who can plant, water, fertilize, and harvest emoji crops on a colorful pixel-style field.
 
-![Meo Meo Farm Preview](./screenshot.png)
+![Meo Meo Farm Preview](./image.png)
 
 ---
 
